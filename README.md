@@ -1,4 +1,4 @@
-# SoftwareEngineeringCourseFinalProject
+# Software Engineering Course Final Project
 This Repo contains our Software Engineering course Final Project as the finalized PDF file (Computer Science B.Sc.)
 and is published for future Reference.
 
